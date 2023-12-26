@@ -1,6 +1,6 @@
 package TD2.EX4;
 
-public class Temps {
+public class  Temps {
     private int s,m,h;
 
     public Temps() {

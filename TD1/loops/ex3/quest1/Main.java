@@ -2,7 +2,7 @@ package TD1.loops.ex3.quest1;
 
 import java.util.Scanner;
 
-public class Main {
+public class  Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] numbers = new int[20];

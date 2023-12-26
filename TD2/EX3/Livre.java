@@ -1,6 +1,6 @@
 package TD2.EX3;
 
-public class Livre {
+public class  Livre {
 
     private String titre ;
     private  String auteur;

@@ -1,7 +1,7 @@
 package TD2.EX5;
 
 
-public class Rectangle {
+public class  Rectangle {
     private double longueur, largeur;
 
     public Rectangle(){}

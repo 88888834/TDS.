@@ -2,7 +2,7 @@ package TD1.conditions.EX4;
 
 import java.util.Scanner;
 
-public class Main {
+public class  Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Entrez la moyenne de l'étudiant :");

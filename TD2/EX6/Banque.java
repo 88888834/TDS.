@@ -1,6 +1,6 @@
 package TD2.EX6;
 
-public class Banque {
+public class  Banque {
    int NCompte ;
      double Solde ;
        String CIN;

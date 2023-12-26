@@ -2,7 +2,7 @@ package TD2.EX2;
 
 
 import java.lang.Math;
-public class Point {
+public class  Point {
 
     private double x;
     private double y;

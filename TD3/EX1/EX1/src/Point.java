@@ -1,6 +1,6 @@
 package TD3.EX1.EX1.src;
 
-public class Point {
+public class  Point {
    private int x,y;
    int dx,dy;
 

@@ -1,6 +1,6 @@
 package TD3.EX2.EX2.src;
 
-public class Point {
+public class  Point {
         public Point(){
         }
     public Point(int x, int y){

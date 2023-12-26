@@ -2,7 +2,7 @@ package TD1.loops.ex8;
 
 import java.util.Scanner;
 
-public class Main {
+public class  Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Entrez le nombre de lignes du triangle :");

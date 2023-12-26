@@ -2,7 +2,7 @@ package TD1.conditions.EX8;
 import java.util.Scanner;
 import java.util.Scanner;
 
-public class Main {
+public class  Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Entrez le numéro du mois (M) :");

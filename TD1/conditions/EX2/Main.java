@@ -11,7 +11,7 @@ public class Main {
         System.out.println("Entrez la valeur de c :");
         int c = scanner.nextInt();
 
-        int discriminant = b * b - 4 * a * c;
+          int discriminant = b * b - 4 * a * c;
 
         if(discriminant > 0) {
             double x1 = (-b + Math.sqrt(discriminant)) / (2 * a);

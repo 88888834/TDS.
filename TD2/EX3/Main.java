@@ -1,6 +1,6 @@
 package TD2.EX3;
 
-public class Main {
+public class  Main {
     public static void main(String[] args) {
         Livre l5= new Livre();
         Livre l1= new Livre("NO LONGER HUMAN");

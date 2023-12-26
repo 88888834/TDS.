@@ -1,7 +1,7 @@
 package TD1.loops.ex1;
 import java.util.Scanner;
 
-public class Main {
+public class  Main {
     public static void main(String[] args) {
         System.out.print("Enter a positive integer: ");
         Scanner scanner = new Scanner(System.in);

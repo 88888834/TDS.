@@ -1,6 +1,6 @@
 package TD3.EX2.EX2.src;
 
-public class PointNom extends Point {
+public class  PointNom extends Point {
          private String nom;
 
 

@@ -12,6 +12,7 @@ public class Main{
         System.out.println("Entrez la troisième variable :");
         int num3 = scanner.nextInt();
 
+
         if(num1 > num2 && num1 > num3) {
             System.out.println("Le maximum des trois variables est : " + num1);
         } else if(num2 > num1 && num2 > num3) {

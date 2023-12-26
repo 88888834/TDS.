@@ -1,6 +1,6 @@
 package TD2.EX1;
 
-public class Point {
+public class  Point {
     private char nom;
    private double abscisse;
 
